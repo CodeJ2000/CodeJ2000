@@ -28,19 +28,46 @@ Welcome to my GitHub profile! I'm a passionate web developer with a strong found
 
 Here are some of the projects I've worked on:
 
-1. 🌴[Explore Surigao Del Sur](https://github.com/CodeJ2000/Explore-SurigaoDelSur): is a web application I developed as part of my journey in web development. It serves as a comprehensive guide to the picturesque province of Surigao del Sur in the Philippines, highlighting key feature are tourist spot listing and technologies used.
+1. 🌴[Explore Surigao Del Sur](https://github.com/CodeJ2000/Explore-SurigaoDelSur): is a web application I developed as part of my journey in web development. It serves as a comprehensive guide to the picturesque province of Surigao del Sur in the Philippines, highlighting key feature are tourist spot listing.
+     <br/> 
 
-2. [Airsoft Gun Shop](https://github.com/CodeJ2000/airsoft-gun-shop): Brief project description, highlighting key features and technologies used.
+      Language or technologies used:
+      * HTML
+      * CSS
+      * javascript
+      * PHP
+      * MySQL
+      * Bootstrap
 
-3. [Apparel Avenue Store](https://github.com/CodeJ2000/Apparel-Avenue-Store): Brief project description, highlighting key features and technologies used.
 
-Feel free to explore these repositories to see my code in action.
+2. [Airsoft Gun Shop](https://github.com/CodeJ2000/airsoft-gun-shop):  is your one-stop shop for all things airsoft. We carry a wide selection of airsoft guns, gear, and accessories from the top brands in the industry. Whether you're a beginner or a seasoned pro, we have everything you need to take your airsoft experience to the next level, It is designed to be easy to navigate and informative. You can browse our selection by product category, brand, or price range.
+     <br/> 
 
+      Language or technologies used:
+      * HTML
+      * CSS
+      * javascript
+      * Laravel
+      * MySQL
+      * Bootstrap
+          
+
+4. [Apparel Avenue Store](https://github.com/CodeJ2000/Apparel-Avenue-Store): is an online clothing store that offers a wide variety of clothing and accessories for men, women, and children. We carry a wide selection of brands and styles, so you're sure to find something you love.
+   <br/> 
+
+    Language or technologies used:
+    * HTML
+    * CSS
+    * jQuery
+    * Laravel
+    * MySQL
+    * Bootstrap
+      
+Feel free to explore these repositories to see my code in action
 ## 📫 Contact
 
-- LinkedIn: [Your LinkedIn Profile](link-to-linkedin)
-- Email: [Your Email Address](mailto:youremail@example.com)
-- Personal Website: [Your Portfolio Website](https://www.yourwebsite.com)
+- LinkedIn: [Jomar Godinez](https://www.linkedin.com/in/jomar-godinez-4624a8263/)
+- Email: [jomargodinez@gmail.com](mailto:jomargodinez70@gmail.com)
 
 ## 💬 Let's Connect
 
