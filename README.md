@@ -1,6 +1,6 @@
 # Hello, I'm Jomar Godinez 👋
 
-Welcome to my GitHub profile! I'm a passionate web developer with a strong foundation in Laravel, HTML, CSS, JavaScript, and jQuery. I'm constantly striving to create beautiful and functional web applications. Here, you'll find a collection of some of my projects and contributions to the open-source community.
+I'm Jomar Godinez, a passionate and versatile full-stack web developer with a strong foundation in web technologies and a love for creating dynamic and user-friendly web applications. With a skill stack that includes HTML, CSS, JavaScript, jQuery, PHP, Laravel, MySQL, and GitHub, I bring a comprehensive understanding of both front-end and back-end development to the table.
 
 ## 🚀 Skills
 
